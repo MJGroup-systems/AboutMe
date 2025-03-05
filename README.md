@@ -68,8 +68,3 @@
 
 ###
 
-<div align="center">
-  <img height="560" src="https://scontent.ftlv20-1.fna.fbcdn.net/v/t39.30808-6/456413835_465059369844080_5421381796231964536_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=XxLAmROxwXMQ7kNvgEgJUFz&_nc_oc=AdgdiEEQTIbNTjG4cc8EebdTPRAPC80EnGIN2c9lMZHNTP6esUba-zoiOXIdfQPsdJHI6ErLTHUNvO6ha0vk1CkH&_nc_zt=23&_nc_ht=scontent.ftlv20-1.fna&_nc_gid=A46FNOwaz7Savgpel61cBwu&oh=00_AYBV0Ewm5BN_M0IJ7VZENrwUSmGc4araGHwKBzbt9CDxvA&oe=67C768AF"  />
-</div>
-
-###
